@@ -1,0 +1,10 @@
+fastapi[standard]
+uvicorn
+sqlalchemy
+python-dotenv
+redis
+python-jose
+supabase
+passlib[bcrypt] # unsure if needed
+
+# Add sesame-csm-1b, unsloth, and any AI agent framework dependencies here
